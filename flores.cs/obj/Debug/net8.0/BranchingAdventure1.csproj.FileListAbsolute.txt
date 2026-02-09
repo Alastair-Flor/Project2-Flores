@@ -1,0 +1,28 @@
+C:\Users\monri\BranchingAdventure\BranchingAdventure1\bin\Debug\net8.0\BranchingAdventure1.exe
+C:\Users\monri\BranchingAdventure\BranchingAdventure1\bin\Debug\net8.0\BranchingAdventure1.deps.json
+C:\Users\monri\BranchingAdventure\BranchingAdventure1\bin\Debug\net8.0\BranchingAdventure1.runtimeconfig.json
+C:\Users\monri\BranchingAdventure\BranchingAdventure1\bin\Debug\net8.0\BranchingAdventure1.dll
+C:\Users\monri\BranchingAdventure\BranchingAdventure1\bin\Debug\net8.0\BranchingAdventure1.pdb
+C:\Users\monri\BranchingAdventure\BranchingAdventure1\obj\Debug\net8.0\BranchingAdventure1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monri\BranchingAdventure\BranchingAdventure1\obj\Debug\net8.0\BranchingAdventure1.AssemblyInfoInputs.cache
+C:\Users\monri\BranchingAdventure\BranchingAdventure1\obj\Debug\net8.0\BranchingAdventure1.AssemblyInfo.cs
+C:\Users\monri\BranchingAdventure\BranchingAdventure1\obj\Debug\net8.0\BranchingAdventure1.csproj.CoreCompileInputs.cache
+C:\Users\monri\BranchingAdventure\BranchingAdventure1\obj\Debug\net8.0\BranchingAdventure1.dll
+C:\Users\monri\BranchingAdventure\BranchingAdventure1\obj\Debug\net8.0\refint\BranchingAdventure1.dll
+C:\Users\monri\BranchingAdventure\BranchingAdventure1\obj\Debug\net8.0\BranchingAdventure1.pdb
+C:\Users\monri\BranchingAdventure\BranchingAdventure1\obj\Debug\net8.0\BranchingAdventure1.genruntimeconfig.cache
+C:\Users\monri\BranchingAdventure\BranchingAdventure1\obj\Debug\net8.0\ref\BranchingAdventure1.dll
+D:\Coding media Applications\BranchingAdventure1\bin\Debug\net8.0\BranchingAdventure1.exe
+D:\Coding media Applications\BranchingAdventure1\bin\Debug\net8.0\BranchingAdventure1.deps.json
+D:\Coding media Applications\BranchingAdventure1\bin\Debug\net8.0\BranchingAdventure1.runtimeconfig.json
+D:\Coding media Applications\BranchingAdventure1\bin\Debug\net8.0\BranchingAdventure1.dll
+D:\Coding media Applications\BranchingAdventure1\bin\Debug\net8.0\BranchingAdventure1.pdb
+D:\Coding media Applications\BranchingAdventure1\obj\Debug\net8.0\BranchingAdventure1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding media Applications\BranchingAdventure1\obj\Debug\net8.0\BranchingAdventure1.AssemblyInfoInputs.cache
+D:\Coding media Applications\BranchingAdventure1\obj\Debug\net8.0\BranchingAdventure1.AssemblyInfo.cs
+D:\Coding media Applications\BranchingAdventure1\obj\Debug\net8.0\BranchingAdventure1.csproj.CoreCompileInputs.cache
+D:\Coding media Applications\BranchingAdventure1\obj\Debug\net8.0\BranchingAdventure1.dll
+D:\Coding media Applications\BranchingAdventure1\obj\Debug\net8.0\refint\BranchingAdventure1.dll
+D:\Coding media Applications\BranchingAdventure1\obj\Debug\net8.0\BranchingAdventure1.pdb
+D:\Coding media Applications\BranchingAdventure1\obj\Debug\net8.0\BranchingAdventure1.genruntimeconfig.cache
+D:\Coding media Applications\BranchingAdventure1\obj\Debug\net8.0\ref\BranchingAdventure1.dll
